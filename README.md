@@ -7,3 +7,7 @@
 ![alt text](https://github.com/aritra363/UpTime_Monitor/tree/main/images/1(2).png "Create token for a user using phone number & password")
 
 ![alt text](https://github.com/aritra363/UpTime_Monitor/tree/main/images/1(3).png "Create a User by sending required field in request body ")
+
+![alt text](https://github.com/aritra363/UpTime_Monitor/tree/main/images/1(4).png "Extend a users token timeperiod ")
+
+![alt text](https://github.com/aritra363/UpTime_Monitor/tree/main/images/1(3).png "add links to check ")
